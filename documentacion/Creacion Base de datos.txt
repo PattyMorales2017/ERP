@@ -1,0 +1,7 @@
+Crear base db_erp
+Crear usuario adminerp
+
+Agregar a adminerp en:
+En Seguridad/Funciones del servidor/Sysadmin
+
+Darle permisos en db_erp
